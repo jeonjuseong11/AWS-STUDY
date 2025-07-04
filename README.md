@@ -6,17 +6,16 @@
 
 ### 섹션 1: 소개
 
-- [1. 강의 소개](./section-01-intro/01_강의소개.md)
-- [2. AWS 소개 & 공부 가이드](./section-01-intro/02_aws소개_가이드.md)
+- [AWS 소개 & 공부 가이드](./section-01-intro/02_aws소개_가이드.md)
 
 ### 섹션 2: AWS를 이해하기 위한 네트워크 기초
 
-- [3. OSI Layer 1: Physical & Data Link](./section-02-osi-dns-db/03_osi_layer1_physical_data_link.md)
-<!-- - [4. OSI Layer 2: Network](./section-02-osi-dns-db/04_osi_layer2_network.md)
-- [5. OSI Layer 3: Transport](./section-02-osi-dns-db/05_osi_layer3_transport.md)
-- [6. OSI Layer 4~7: Session/Presentation/Application](./section-02-osi-dns-db/06_osi_layer4_session_to_app.md)
+- [1. OSI Layer 1: Physical & Data Link](./section-02-osi-dns-db/03_osi_layer1_physical_data_link.md)
+- [2. OSI Layer 2: Network](./section-02-osi-dns-db/04_osi_layer2_network.md)
+- [3. OSI Layer 3: Transport](./section-02-osi-dns-db/05_osi_layer3_transport.md)
+- [4. OSI Layer 4~7: Session/Presentation/Application](./section-02-osi-dns-db/06_osi_layer4_session_presentation_application.md)
 - [7. DNS](./section-02-osi-dns-db/07_dns.md)
-- [8. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
+<!-- - -- [8. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
 - [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
 - [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
 <!--
