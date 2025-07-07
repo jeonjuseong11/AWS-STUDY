@@ -17,7 +17,7 @@
 - [5. DNS](./section-02-osi-dns-db/07_dns.md)
 - [6. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
 - [7. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
-  <!-- - -- [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
+- [8. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md)
 
 ### 섹션 3: AWS 클라우드 기초 개념
 
