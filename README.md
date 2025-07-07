@@ -16,11 +16,11 @@
 - [4. OSI Layer 4~7: Session/Presentation/Application](./section-02-osi-dns-db/06_osi_layer4_session_presentation_application.md)
 - [5. DNS](./section-02-osi-dns-db/07_dns.md)
 - [6. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
-<!-- - -- [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
-- [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
-<!--
+- [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
+  <!-- - -- [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
 
 ### 섹션 3: AWS 클라우드 기초 개념
 
+  <!--
 - [11. 클라우드 컴퓨팅이란?](./section-03-aws-basics/11_클라우드컴퓨팅이란.md)
 - [12. 클라우드 컴퓨팅 모델](./section-03-aws-basics/12_클라우드컴퓨팅_모델.md) -->
