@@ -1,6 +1,6 @@
 # AWS 네트워크 & 클라우드 기초 정리
 
-이 저장소는 AWS 및 네트워크 기본 개념에 대한 강의 내용을 정리한 학습 저장소입니다.
+이 저장소는 AWS 및 네트워크 기본 개념에 대한 강의 내용을 정리한 학습 저장소
 
 ## 📚 섹션별 학습 목차
 
@@ -16,7 +16,7 @@
 - [4. OSI Layer 4~7: Session/Presentation/Application](./section-02-osi-dns-db/06_osi_layer4_session_presentation_application.md)
 - [5. DNS](./section-02-osi-dns-db/07_dns.md)
 - [6. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
-- [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
+- [7. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
   <!-- - -- [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
 
 ### 섹션 3: AWS 클라우드 기초 개념
