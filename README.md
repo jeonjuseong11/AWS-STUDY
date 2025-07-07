@@ -15,8 +15,8 @@
 - [3. OSI Layer 3: Transport](./section-02-osi-dns-db/05_osi_layer3_transport.md)
 - [4. OSI Layer 4~7: Session/Presentation/Application](./section-02-osi-dns-db/06_osi_layer4_session_presentation_application.md)
 - [5. DNS](./section-02-osi-dns-db/07_dns.md)
-<!-- - -- [8. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
-- [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
+- [6. 캐싱(Caching)](./section-02-osi-dns-db/08_cache.md)
+<!-- - -- [9. 암호화 & SSL/TLS](./section-02-osi-dns-db/09_ssl_tls.md)
 - [10. RDBMS vs NoSQL](./section-02-osi-dns-db/10_rdbms_vs_nosql.md) -->
 <!--
 
